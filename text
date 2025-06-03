@@ -1,0 +1,7 @@
+Ass 1:
+
+1. install Google appengine laucher 1.9.62 python 2.7.9 and donwload
+2. open google app engine go in preferences and set python.exe and appengine path
+3. create the new app named folder in local machine .copy its location .
+4.now in app engine create new project set the location as parent directort set the ports
+5.run and browser localhost:port
