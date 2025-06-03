@@ -1,0 +1,22 @@
+
+Ass 4:
+download virtual box and iso files set up create
+imp :in tool set net address and in each virtual box setting ,network part ad nat network
+if ip config is not working :sudo apt install net-tools
+ifconfig
+ls
+touch text.txt          -create
+nano text.txt           -edit
+cat text.txt            -show
+ping (address)
+scp text.txt username@ip_address:/home/username 
+scp text.txt username@ip_address:
+
+Ass 5:AWS
+Ass 6:
+1.Choose project
+2.go to google shell
+3.git clone https://github.com/Saniya-Bhosale/my_paas_app
+4.cd (path)
+5.gcloud app deploy
+6.gcloud app browse
