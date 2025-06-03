@@ -11,9 +11,20 @@ cat text.txt            -show
 ping (address)
 scp text.txt username@ip_address:/home/username 
 scp text.txt username@ip_address:
-
+🔽 On Receiver VM (first):
+bash
+Copy
+Edit
+nc -l -p 1234 > received.txt
+🔼 On Sender VM (second):
+bash
+Copy
+Edit
+nc <receiver-ip> 1234 < text.txt
+Nothing will show up on screen unless there’s an error — but the file will silently transfer and complete.
 Ass 5:AWS
 Ass 6:
+
 1.Choose project
 2.go to google shell
 3.git clone https://github.com/Saniya-Bhosale/my_paas_app
