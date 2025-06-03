@@ -20,3 +20,25 @@ Ass 6:
 4.cd (path)
 5.gcloud app deploy
 6.gcloud app browse
+
+Ass 7:Salesforce
+login to the agentforce 
+https://orgfarm-21c29881b2-dev-ed.develop.lightning.force.com/lightning/
+step 1: Create object (when your are in the home page of salesforce
+just click to the setting icon on top-right corner select "Data Cloud Setup"
+You will see anaother home there and object manager tab beside it
+-Go to object manager on right click create=create new object
+-create to or more 
+Step2 :after that go to  the settings at top right corner and click to "setup" 
+in the serach bar serch for search "TABS" -Create
+
+Step 3:after that go to  the settings at top right corner and click to "setup" 
+serach app manager -create new lighning app :
+go seting all things
+#imp in last step set profiles to :System administrator and stantard user
+create 
+
+Step 4:after that go to  the settings at top right corner and click to "setup"
+Click ( dots on left top corner serch the Lighing ap name you created
+add data and show
+
