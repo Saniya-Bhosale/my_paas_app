@@ -1,4 +1,4 @@
-Ass 1:Install Google App Engine. Create hello world app and other simple web applications using python/java. 
+ginAss 1:Install Google App Engine. Create hello world app and other simple web applications using python/java. 
 
 1. install Google appengine laucher 1.9.62 python 2.7.9 and donwload
 2. open google app engine go in preferences and set python.exe and appengine path
@@ -11,10 +11,10 @@ Ass2:Use GAE launcher to launch the web applications.
 2.open its terminal type: gcloud init
 3.choose new configuaration
 4.gcloud auth login
-On login to the google cloud 
-Step 2: Create Project 
-Step 3 : Add billing details
-Step 4: Go to app by saerching  App Engine 
+On login to the google cloud  using browese or link displayed
+Step 2: Create Project select my biling account
+Step 3 : Add billing details 
+Step 4: Go to app engine by searching  App Engine 
 Step 5:  Go serach- Create your project | google app engine standard 
 Step 6 : add location and the screen must show python and standard 
 Step 7:open console in it 
@@ -26,9 +26,9 @@ part 2:
 1.again go to the sdk shell
 2.gcloud init
 3.choose reinitialize configuaration
-Step 3: login
-Step 4: select project
-Step 5: cd “project link ex: E:\WEB the project must be downloaded from github and then saved to the folder and that flder path should be given”
-Step 6: gcloud app deploy 
+login to the same accout as part 1
+select project same crreted in the part 1
+cd “project link ex: E:\WEB the project must be downloaded from github and then saved to the folder and that flder path should be given”
+ gcloud app deploy 
 gcloud app browse
 
